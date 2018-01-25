@@ -2,7 +2,7 @@ package nl.games;
 import java.util.Scanner;
 
 
-// Hier wil ik nog wat aanpassen
+// Hier wil ik nog wat aanpassen KIJK DIT DAN
 // Verandering 2
 
 public class NumberGame {
