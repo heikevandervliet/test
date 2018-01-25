@@ -1,6 +1,10 @@
 package nl.games;
 import java.util.Scanner;
 
+
+// Hier wil ik nog wat aanpassen
+// Verandering 2
+
 public class NumberGame {
 
 	public static void main(String[] args) {
