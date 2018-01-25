@@ -1,5 +1,4 @@
 class Demo{
-
-	int aantal = 3;    // 3 
-
+	int aantal = 4;
+	int aantalDingen = 3;    // 3 
 }
