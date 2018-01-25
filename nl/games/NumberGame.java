@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 // Hier wil ik nog wat aanpassen
-
+// Verandering 2
 
 public class NumberGame {
 
